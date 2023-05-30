@@ -1,0 +1,17 @@
+H:\New folder\Workspace\C#\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.exe
+H:\New folder\Workspace\C#\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.deps.json
+H:\New folder\Workspace\C#\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.runtimeconfig.json
+H:\New folder\Workspace\C#\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.dll
+H:\New folder\Workspace\C#\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.pdb
+H:\New folder\Workspace\C#\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+H:\New folder\Workspace\C#\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.Form1.resources
+H:\New folder\Workspace\C#\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+H:\New folder\Workspace\C#\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+H:\New folder\Workspace\C#\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+H:\New folder\Workspace\C#\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.AssemblyInfo.cs
+H:\New folder\Workspace\C#\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+H:\New folder\Workspace\C#\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.dll
+H:\New folder\Workspace\C#\WinFormsApp3\obj\Debug\net6.0-windows\refint\WinFormsApp3.dll
+H:\New folder\Workspace\C#\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.pdb
+H:\New folder\Workspace\C#\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.genruntimeconfig.cache
+H:\New folder\Workspace\C#\WinFormsApp3\obj\Debug\net6.0-windows\ref\WinFormsApp3.dll
